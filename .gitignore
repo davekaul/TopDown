@@ -1,0 +1,16 @@
+# Ignore build and binary files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore user-specific files
+*.log
+*.temp
+*.ini
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
